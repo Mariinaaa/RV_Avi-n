@@ -1,5 +1,7 @@
 # RV_Avión
 Proyecto 3D en unity que simula el vuelo de un avión
+Enlace al poryecto ya que al ser en unityt git no nos deja subir un archivo tan grande:
+  https://drive.google.com/drive/folders/1AAw6RF8HTaWBoo5abfbh8tIwgePKoCO1?usp=drive_link
 
 # Requisitos del Proyecto
 Unity: Compatible con Unity 2021.3 o superior.
